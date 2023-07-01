@@ -125,6 +125,7 @@
     "application_name": "Odestry",
     "application_icon": "shopify:\/\/shop_images\/favicon.png",
     "application_maskable_icon": "shopify:\/\/shop_images\/favicon.png",
+    "application_splash_screen": "shopify:\/\/shop_images\/favicon.png",
     "application_show_button": true,
     "application_shortcut_link": "shopify:\/\/collections\/frontpage",
     "brand_domain": "https:\/\/odestry.myshopify.com",
